@@ -1,1 +1,4 @@
-
+threading
+cv2==4.8.0
+cvzone
+pynut
